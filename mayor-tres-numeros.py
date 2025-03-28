@@ -40,8 +40,3 @@ if __name__=="__main__":
     numeros.ordenar_numeros()
     numeros.imprimir_numeros()
 
-    numeros.ingresar_numeros()
-    print("\nNumeros ordenados\n")
-    numeros.ordenar_numeros()
-    numeros.imprimir_numeros()
-
